@@ -1,0 +1,20 @@
+header {
+    background: rgb(189, 189, 255);
+}
+
+header h1 {
+    color: rgb(128, 128, 255);
+}
+
+h1, h2, h3, h4, h5, h6, p, a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header a {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+body {
+    background-color: rgb(125, 160, 255);
+}
